@@ -1,0 +1,69 @@
+		
+		.p2,.p3,.p6{width: 1000px;margin-left: 250px;margin-right: auto;}
+		a:hover{background-color: pink;}
+		.active{background-color: pink;}
+		a{text-decoration: none;color: blue;}
+		.ap1:hover{text-decoration: underline;}
+		img{width: 200px;height: 250px;}
+		.divp{color: #dc143c; }
+		.divn{color:#b20032; }
+		#top{position:relative;font-size: 20px; background-color: #deb887; height: 10px;}
+		.buy{color:gold;background-color: #0084ff;border:none;color: white;border-radius: 2px;width: 50px;margin-top: 10px;}
+		td:nth-of-type(even){font-style: italic;}
+
+
+		#p2img{ background-image: url("IMG_20230221_131657_983.jpg"); background-attachment: fixed;}
+		.p2{background-color: #bdb76b;}	
+		.apple{width: 1000px;}
+		.box{box-shadow: 5px 5px 5px chocolate;}
+		.endd{font-size: 20px; margin-left: 5px;}
+		.topp{font-size: 20px; margin-left: 5px;}
+
+
+
+
+		#p3img{background-image: url("IMG_20230219_123852.jpg");background-attachment: fixed;}
+		.p3{background-color: palegreen;}
+		.l1{font-family: Forte;font-size:25px;}
+		.rightimg{float: right;margin-top: 10px;width: 300px;margin-right: 50px;border-radius: 24px;}
+		h1 {text-shadow: 5px 5px 5px darkgray ;}
+		.context{color: darkgreen;text-shadow: 5px 5px 3px darkgoldenrod;}
+
+
+		#p4img{ background-image:url("IMG_20230221_131636_966.jpg"); background-attachment: scroll;}
+		h2{text-align: center;text-shadow: 10px 10px 5px darkgray;text-decoration: underline;}
+		.p4{background-color: #ebb8dd; margin-left: 200px; margin-right: 190px;}
+		.div1{background-image: url("IMG_20230213_144503.jpg");}
+		.div2{padding:50px;}
+		.div3{background-image: url("IMG_20230213_144319.jpg");}
+		.div4{background-image: url("IMG_20230213_144521.jpg");}
+		.div5{background-image: url("IMG_20230213_144300.jpg");}
+		.div6{background-image: url("IMG_20230213_144402.jpg");}
+		.div7{background-image: url("IMG_20230213_144418.jpg");}
+		.div8{background-image: url("IMG_20230213_144216.jpg");}
+		.div1,.div3,.div4,.div5,.div6,.div7,.div8{width: 300px; border-radius: 20px;}
+		hr{ height:10px; background-color:gold; }
+		.p4logo{float: right;border-radius: 25px; margin-top: 40px;}
+		.summary{font-size: 23px;color: black;text-align: center; text-shadow: 5px 5px 3px chocolate; margin-bottom: 10px;}
+
+
+		.p5{background-image: url("IMG_20230216_195004_925.jpg");font-size: 20px;color: blue;width: 1000px;margin-left: 250px;}
+		.buybb{width: 200px;height: 18px;}
+		.buyb{width: 90px;height: 25px;border: none;border-radius: 24px;background-color: #0084ff;font-size: 20px;}		
+		.logo1{ margin-left: 250px;}
+		.logo{width: 40px;height: 40px; border-radius: 20px; }
+		.pay{background-color: #b2d3c2;margin-top: 50px; margin-left: 10px;}
+		.deli{float: right; margin-bottom: 50px; margin-right: 400px; border-radius: 100px;}
+
+				
+		.p6{background-image: url(images_4.jpeg);font-size: 20px;color: blue}
+		.first{border: none;background-color: #aff8d8;border-radius: 3px;width: 200px;height: 18px;padding: 2px 3px 2px 3px;}
+		.em{border: none;background-color: #aff8d8;border-radius: 3px;width: 200px;height: 18px;padding: 2px 3px 2px 3px;}
+		.textarea{border: none;background-color: #aff8d8;border-radius: 5px;padding: 2px 3px 2px 3px;}
+		.resert{margin-right: 80px; border:none;background-color: #0084ff; border-radius: 24px; width: 90px; height: 25px;font-size: 20px;}		
+		
+
+
+			.abb{text-shadow: 10px 10px 5px red; color: black;}
+			.marq{padding: 10px;}
+					
